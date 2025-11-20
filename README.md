@@ -1,3 +1,3 @@
 # Metode-Ensamble
 
-[Hasil Pengujian](./Pert 10.pdf)
+[Hasil Pengujian](./Pert_10.pdf)
